@@ -1,0 +1,7 @@
+<!-- This is a placeholder for the Flagr logo image. In a real implementation, this would be an actual PNG file. -->
+<!-- For the purposes of this integration, we'll use this SVG placeholder that resembles a logo -->
+<svg xmlns="http://www.w3.org/2000/svg" width="137" height="46" viewBox="0 0 137 46" fill="none">
+  <rect width="137" height="46" rx="4" fill="#309E4F" fill-opacity="0.1"/>
+  <path d="M30.4 23H15.6V13H40.4V23H30.4ZM30.4 33H15.6V23H30.4V33Z" fill="#309E4F"/>
+  <text x="50" y="28" font-family="Arial" font-size="18" font-weight="bold" fill="#309E4F">FLAGR</text>
+</svg>
